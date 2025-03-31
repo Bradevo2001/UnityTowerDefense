@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Attackers
+  - Defender
+  - WaveText
+  - ECO
+  - Bullet
+  - Path
+  - DefenderAOE
+  - TowerInfo
+  - CloseCross
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Attackers
+  - Defenders
+  - Path
+  - ShopUI
+  - Background
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 2299448185
+    locked: 0
+  - name: BackGround
+    uniqueID: 81596925
+    locked: 0
+  - name: Path
+    uniqueID: 54569201
+    locked: 0
+  - name: UI
+    uniqueID: 3973483443
+    locked: 0
+  - name: UI2
+    uniqueID: 4054968033
+    locked: 0
+  - name: UI3
+    uniqueID: 3199177839
+    locked: 0
+  - name: Defenders
+    uniqueID: 1778436641
+    locked: 0
+  - name: Attackers
+    uniqueID: 1340450475
+    locked: 0
